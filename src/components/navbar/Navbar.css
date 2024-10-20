@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar-container{
+    width: 100%;
+    height: 78px;
+    top: 14px;
+    left: 15px;
+    background: #DB2C1D;
+}
+.navbar-content{
+    display: flex;
+    align-items: center;
+}
+.navbar-content h2{
+   position: relative;
+   left: 900px;
+   color: white;
+}
+.nav-img{
+    width: 69px;
+    height: 69px;
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+    left: 40px;
+    background-color: white;
+}
+.nav-img img{
+    width: 78px;
+    height: 62px;
+    position: relative;
+    top: 5px;
+    left: -3px;
+}
